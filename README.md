@@ -7,4 +7,4 @@ Inspired by a suggestion in the bloxstrap discord for community styles. Allows f
 
 Watch this video:
 
-![](https://cd.axell.me/p/bloxstrapcompilingtool.mp4)
+https://cd.axell.me/p/bloxstrapcompilingtool.mp4
