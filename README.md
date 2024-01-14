@@ -7,4 +7,6 @@ Inspired by a suggestion in the bloxstrap discord for community styles. Allows f
 
 Watch this video:
 
-https://cd.axell.me/p/bloxstrapcompilingtool.mp4
+<video width="320" height="240" controls>
+  <source src="https://cd.axell.me/p/bloxstrapcompilingtool.mp4" type="video/mp4">
+</video>
